@@ -1,0 +1,22 @@
+{
+  "name": "wirenboard-module-guard",
+  "version": "1.6.0",
+  "description": "Guard manager",
+  "main": "./wb-rules-modules/guard.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "guard",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-guard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-guard/issues/"
+  },
+  "license": "ISC"
+}
